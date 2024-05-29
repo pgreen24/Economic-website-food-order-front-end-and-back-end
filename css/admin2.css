@@ -1,0 +1,43 @@
+body { 
+    background-image: url(../images/pl.jpg); 
+    background-size: cover; 
+    background-position: center; } 
+.login {
+    width: 300px;
+    height: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid #ddd; 
+    border-radius: 5px; 
+    background: transparent;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3); 
+}
+    .text-center { text-align: center;
+     } 
+    .btn-primary { 
+        display: inline-block;
+        width: 100px;
+        height: 30px;
+        margin: 10px 0;
+        background: #ff4757;
+        color: #fff;
+        text-align: center;
+        line-height: 30px;
+        border-radius: 5px; 
+        cursor: pointer;
+     }
+     .btn-primary:hover { 
+        background: #ff4757; 
+    }
+    .error
+{
+    padding: 2%;
+    color:red;
+
+    }
+
+    input[type="submit"]:hover {
+        background-color: #ff4757;
+    }
+    /* clip-message-sent 1 */
+
