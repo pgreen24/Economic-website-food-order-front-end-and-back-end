@@ -19,4 +19,8 @@ There Is The Front-End Design
 </div>
 
 ##### 4.Foods Page:
-https://github.com/pgreen24/Economic-website-food-order-front-end-and-back-end/blob/main/images/FRONT%20End/Foods%20Page.png
+<div>
+  
+  <img src = https://github.com/pgreen24/Economic-website-food-order-front-end-and-back-end/blob/main/images/FRONT%20End/Foods%20Page.png/>
+  
+</div>
