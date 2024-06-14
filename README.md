@@ -31,3 +31,12 @@ There Is The Front-End Design
   <img src = https://github.com/pgreen24/Economic-website-food-order-front-end-and-back-end/blob/main/images/FRONT%20End/Click%20Order%20Now.png/>
   
 </div>
+
+##### 6.Searching Food Which I Want  Order Easy Way To Find That Write A Food Name In Search Bar And Click Search Button:
+
+<div>
+  
+  <img src = https://github.com/pgreen24/Economic-website-food-order-front-end-and-back-end/blob/main/images/FRONT%20End/Searching%20Food.png/>
+   <img src = https://github.com/pgreen24/Economic-website-food-order-front-end-and-back-end/blob/main/images/FRONT%20End/Searching%20Food%20result.png/>
+  
+</div>
