@@ -13,7 +13,9 @@ There Is The Front-End Design
   <img src =https://github.com/pgreen24/Economic-website-food-order-front-end-and-back-end/blob/main/images/FRONT%20End/categories%20page.png/>
 </div>
 
-##### 3.	Click On Any Picture Which Food Want To Order:
+##### 3.	Click On Any Picture Which Food Want To Order
 <div>
   <img src =https://github.com/pgreen24/Economic-website-food-order-front-end-and-back-end/blob/main/images/FRONT%20End/Click%20On%20Any%20Picture.png/>
 </div>
+
+##### 4.Foods Page:
