@@ -41,5 +41,5 @@
   
 </div>
 
-# This project has a back end, I made it, but I couldn't show screenshots of it.
+# This project has a back end, but I couldn't show screenshots of it.
 
